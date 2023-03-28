@@ -1,3 +1,3 @@
 # Demo here
 
-Some detailed descriptions of tasks
+Some detailed descriptions of tasks for me!
